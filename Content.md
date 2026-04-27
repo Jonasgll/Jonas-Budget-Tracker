@@ -1,4 +1,4 @@
-# Marketing Content — Jonas Budget Tracker
+# Marketing Content — Budget Tracker by SimplovaStudio
 
 ---
 
@@ -6,96 +6,94 @@
 
 ### Title
 
-Personal Budget Tracker Web App | Income Expense Savings Goals Debt Dashboard | PWA Dark Mode Multi-Currency
+Personal Budget Tracker App | Expense & Income Tracker | Savings Goals | Debt Tracker | PWA | Dark Mode | Multi-Currency
 
 ### Description
 
-Take control of your finances with this beautiful, all-in-one Budget Tracker web app — no subscriptions, no downloads required, just open and go.
+Take full control of your money with this beautifully designed Personal Budget Tracker — a ready-to-use web app that runs on any device, no downloads or subscriptions required.
 
-**What's included:**
+**What you get:**
+Track income and expenses with ease, set monthly savings goals, monitor your debt payoff progress, and review your full annual financial picture — all in one clean, intuitive dashboard.
 
-- **Dashboard** with live KPIs for income, expenses, savings, and balance at a glance
-- **Income & Expense Tracking** with categories like Rent, Groceries, Transport, Health, Clothing, Education, and more
-- **Monthly Savings Goal** — set a fixed amount or percentage target with an animated progress bar
-- **Savings Goals** — create multiple goals (vacation, laptop, emergency fund) and track progress visually
-- **Debt Tracker** — log debts and watch your repayment percentage grow over time
-- **Annual Overview** — full-year monthly comparison chart to spot spending trends
-- **Interactive Charts** — donut (expenses by category) and bar charts (last 6 months)
-- **CSV Export** — download all your data anytime, no lock-in
-- **PWA Installable** — add to your home screen on iOS, Android, or desktop; works offline
-- **Dark & Light Mode** — easy on the eyes, any time of day
-- **Multi-Currency** — supports €, $, £, and CHF
+**Key Features:**
+- **Income & Expense Tracking** — Log salary, freelance, bonuses, and categorized expenses (Rent, Groceries, Transport, Health, and more)
+- **Savings Goals** — Set targets for vacations, gadgets, or emergency funds and watch progress bars fill up
+- **Debt Tracker** — Track multiple debts and see exactly how much you have paid off
+- **Annual Overview** — Month-by-month comparison charts to spot trends instantly
+- **Monthly Savings Goal** — Set a fixed amount or percentage of income; the dashboard shows your real-time progress
+- **Dark Mode & Light Mode** — Easy on the eyes, day or night
+- **Multi-Currency Support** — Works with €, $, £, and CHF
+- **Bilingual** — Full English and German interface
+- **Install as App (PWA)** — Add to your phone or desktop home screen for offline-ready access
+- **CSV Export** — Download all your data anytime
+- **100% Private** — All data stays on your device, never sent to a server
 
-All data is stored privately on your device — no accounts, no cloud, no privacy concerns.
+Perfect for anyone building a budget, paying off debt, saving for a goal, or simply wanting a clear picture of their finances. Ready to use in 30 seconds.
 
-Perfect for budgeting beginners and personal finance enthusiasts alike. Whether you're paying off debt, building an emergency fund, or simply trying to spend smarter, this tracker makes it effortless.
-
-Ready to use in under 30 seconds — open in any browser and start tracking today.
-
-→ Download now and finally know where your money is going.
+**Start your financial glow-up today — grab your Budget Tracker now!**
 
 ### Tags
 
-budget tracker, personal finance, expense tracker, savings tracker, debt tracker, money management, budget planner, income tracker, finance template, savings goals, budget dashboard, finance app, cash flow tracker
+budget tracker, expense tracker, savings goals, debt tracker, personal finance, budget planner, money tracker, finance app, budget template, spending tracker, monthly budget, finance tracker, money planner
 
 ---
 
-## Pinterest Pins
+## Pinterest — 5 Pins
 
 ### Pin 1
 
-**Title:** Finally Know Where Your Money Goes — Free Budget Tracker App
+**Title:** Finally, a Budget Tracker That's Actually Beautiful
 
-**Description:** Tired of reaching the end of the month with no idea where your paycheck went? This all-in-one Budget Tracker shows your income, expenses, savings, and balance on a clean dashboard — with charts, monthly goals, and a debt tracker built in. No subscriptions. Works offline. Installable on any device. Start tracking in 30 seconds. → Grab it now!
+**Description:** Stop dreading spreadsheets. This Personal Budget Tracker app gives you income tracking, expense categories, savings goals, and a debt payoff tracker — all in one clean dashboard. Works on any phone or desktop, installs like an app, and keeps your data 100% private. Take back control of your money today. #BudgetTracker #PersonalFinance #SavingsGoals #MoneyManagement
 
 ---
 
 ### Pin 2
 
-**Title:** Track Income, Expenses, Savings Goals & Debt in One Place
+**Title:** Track Every Dollar: Income, Expenses, Savings Goals & Debt in One App
 
-**Description:** Meet the budget tracker that does it all: log income by source, categorize expenses, set savings goals with progress bars, and track debt payoff — all from one beautiful dashboard. Supports €, $, £, and CHF. Dark mode included. Export your data to CSV anytime. Works as a PWA — install it on your phone like a native app. → Get it today!
+**Description:** Know exactly where your money goes every month. This all-in-one budget tracker features a live dashboard, donut charts by expense category, a 6-month spending bar chart, and a full annual view. Dark mode, multi-currency, and CSV export included. Free to use — no subscriptions, no data leaks. #ExpenseTracker #BudgetApp #DebtFreeJourney #FinanceTracker
 
 ---
 
 ### Pin 3
 
-**Title:** From Broke to Budgeted: The Simple App That Changes Everything
+**Title:** Pay Off Debt Faster With a Visual Debt Tracker
 
-**Description:** What if tracking your money took less than 2 minutes a day? This Budget Tracker makes it that simple. Add income and expenses in seconds, watch your savings goal progress bar fill up, and see exactly where your money goes with beautiful charts. Light & dark mode. Multi-currency. Private — all data stays on your device. → Start your money glow-up now!
+**Description:** See exactly how much of each debt you have paid off with progress bars that actually motivate you. Add any creditor, enter the total owed and amount paid, and watch your debt shrink. Pair it with the savings goals and income tracker for a complete money system. Try it free. #DebtTracker #DebtFree #DebtPayoff #BudgetPlanner #MoneyGoals
 
 ---
 
 ### Pin 4
 
-**Title:** Set Savings Goals & Actually Hit Them — With This Free Tracker
+**Title:** Set a Monthly Savings Goal — And Actually Hit It
 
-**Description:** Stop setting savings goals you never reach. This budget tracker lets you create multiple goals (vacation, emergency fund, new laptop) and tracks your progress in real time. Pair it with monthly spending insights and a debt payoff tracker for a complete picture of your finances. Installable as an app, works offline. → Download free and start saving smarter!
+**Description:** Define your monthly savings target as a fixed amount or a percentage of your income. The dashboard updates in real time so you always know if you are on track. Add savings goals for vacations, emergency funds, or big purchases and celebrate every milestone. Ready in 30 seconds. #SavingsGoals #MoneyChallenge #SavingMoney #BudgetTracker #FinanceTips
 
 ---
 
 ### Pin 5
 
-**Title:** The Budget Tracker That Works Offline & Protects Your Privacy
+**Title:** Your Personal Finance Dashboard — Dark Mode, Multi-Currency, Offline-Ready
 
-**Description:** No account required. No cloud. No monthly fee. This Budget Tracker stores everything privately on your own device and works fully offline once installed. Get a full annual overview, interactive spending charts, CSV export, and multi-currency support — all in a clean, fast web app. Available in light and dark mode. → Try it now, totally free!
-
----
-
-## TikTok Hooks
-
-### Variant 1 — Pain Point
-
-I used to ask myself "where did all my money go?" every single month. Then I found this budget tracker — and the answer was honestly embarrassing. Here's how I fixed it.
+**Description:** A stunning budget tracker that works as a PWA — install it on your phone like a native app. Supports €, $, £, and CHF. Switch between English and German. Export your data to CSV anytime. Everything stays on your device, completely private. Modern design that makes budgeting feel effortless. Grab it now. #BudgetApp #PersonalFinance #PWA #DarkMode #MoneyTracker
 
 ---
 
-### Variant 2 — Curiosity
+## TikTok Hooks — 3 Variants
 
-This budget tracker does what most paid finance apps charge $10 a month for — for free, with no account, no cloud, and it even works offline. Let me show you exactly what's inside.
+### Hook 1 — Problem / Pain Point
+
+> "If you have no idea where your paycheck goes every month… this is why. And here's the fix in 30 seconds."
 
 ---
 
-### Variant 3 — Transformation
+### Hook 2 — Curiosity
 
-Three months ago I had zero savings and no idea where my paycheck went. Today I've hit two savings goals and paid off a debt. The only thing that changed? I started using this one simple tracker.
+> "I built one single web page that tracks my income, expenses, debt, AND savings goals — and it lives on my phone like a real app. Here is what it looks like."
+
+---
+
+### Hook 3 — Transformation
+
+> "Three months ago I had no clue I was spending €400 a month on 'other stuff.' Then I started using this budget tracker — and I saved €900 last month."
